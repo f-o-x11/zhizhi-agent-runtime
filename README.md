@@ -378,6 +378,7 @@ Responses expose `Evidence`, `Actions`, `Warnings`, and statistics for model cal
 | `10-full-agent` | Conditions, bindings, replan, composition | `go run ./examples/10-full-agent` |
 | `11-household-workflow` | Real-model parallel steps, conditional bindings, and failure replanning | `go run ./examples/11-household-workflow` |
 | `13-parallel-search` | Opt-in keyless web research via Parallel Search MCP | `go run ./examples/13-parallel-search` |
+| `14-deed-page` | Opt-in publishing of agent-written pages via deed.page MCP, with terminal confirmation | `go run ./examples/14-deed-page` |
 
 ## Development
 
